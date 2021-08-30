@@ -1,4 +1,4 @@
-//WAP to print number in reverse order 
+//WAP to print number in reverse order without using arrays
 #include<stdio.h>
 int main(){
 	int num = 123573145;
