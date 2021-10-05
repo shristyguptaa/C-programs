@@ -1,7 +1,5 @@
 //program to find grade of a student by his percentage
-
 #include<stdio.h>
-
 int main(){
 	int percentage = 23;
 	if(100>percentage && percentage >=90){
