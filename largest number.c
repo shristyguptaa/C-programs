@@ -1,5 +1,7 @@
-//write a program to find largest number and take user input 
+//write a program to find largest number and take user input
+
 #include<stdio.h>
+
 int main(){
 	int a,b,c;
 	printf("Enter any three numbers\n");
