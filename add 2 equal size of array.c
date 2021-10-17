@@ -1,5 +1,7 @@
 //write a program to add 2 equal (size) arrays and store in 3rd
+
 #include<stdio.h>
+
 int main(){
 	int num1[5]={10,20,30,40,50};
 	int num2[5]={20,50,80,90,510};
