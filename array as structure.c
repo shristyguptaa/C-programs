@@ -1,7 +1,5 @@
 //write a program to use array as a sturucture in C
-
 #include<stdio.h>
-
 struct age{
 };
 int main(){
