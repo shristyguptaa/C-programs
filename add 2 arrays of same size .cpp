@@ -1,7 +1,5 @@
-//WAP to add 2 arrays of same size
-
+//WAP to add 2 arrays of same sizee
 #include<stdio.h>
-
 int main()
 {	int num1[5]={10,20,30,40,50};
 	int num2[5]={1,2,3,4,5};
