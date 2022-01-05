@@ -1,4 +1,4 @@
-//WAP to use sting.h
+//WAP to use string.h
 #include<stdio.h>
 #include<string.h>
 int main(){
