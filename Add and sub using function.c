@@ -1,5 +1,7 @@
 //write a program to add and sub using functions
+
 #include<stdio.h>
+
 void add(){
 	int a;
 	int b;
