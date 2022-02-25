@@ -1,4 +1,5 @@
 //a program to convert numbers between 1 to 10 to words
+
 #include<stdio.h>
 int main(){
 	int num;
